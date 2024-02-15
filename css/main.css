@@ -53,14 +53,14 @@ margin-left:80px; margin-right:80px; margin-top:25px; transition:0.3s; cursor:po
       font-size: 20px;
       background:#06c67b;
       border-radius:9999px;
-      width:400px;
+      width:500px;
       line-height:35px;
       position:fixed;
-      left:15%;
+      left: 37%;
       bottom:10%      
 }
 .sbot {font-size: 20px; position:fixed;
-left:25%; right:25%; bottom:6%; color:#fff}
+left:25%; right:25%; bottom:10%; color:#fff}
 .stop:hover {background:#89DFBE; color:#fff }
 .sbot span {color:#06c67b; font-weight: bold;}
 .sbot:hover .startjoin span {text-decoration: underline;}
