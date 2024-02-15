@@ -60,7 +60,7 @@ margin-left:80px; margin-right:80px; margin-top:25px; transition:0.3s; cursor:po
       bottom:10%      
 }
 .sbot {font-size: 20px; position:fixed;
-left:25%; right:25%; bottom:10%; color:#fff}
+left:25%; right:25%; bottom:65px; color:#fff}
 .stop:hover {background:#89DFBE; color:#fff }
 .sbot span {color:#06c67b; font-weight: bold;}
 .sbot:hover .startjoin span {text-decoration: underline;}
